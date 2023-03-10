@@ -29,6 +29,7 @@
   body{
     overflow-x: hidden !important;
     font-family: 'Labrada', serif;
+    /* color: #0dcaf0; */
         /* overflow-y: hidden !important; */
   }
 
@@ -43,4 +44,11 @@
     margin: 10px;
     border-radius: 20px;
     border: 1px solid black;
+}
+
+
+.homebox{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; 
+  border-radius: 25px; 
+  border: 1px solid blue;
 }
