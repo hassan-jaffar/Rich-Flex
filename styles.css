@@ -1,0 +1,46 @@
+  label{
+    font-size: 18px;
+    font-weight: bold;
+    color: blue;
+    padding: 5px 20px;
+    border-radius: 20px;
+  }
+
+  input{
+    height: 40px;
+  }
+
+  .br{
+    border-radius: 25px;
+  }
+
+  .loginbtn{
+    background-color: blue;
+    color: white;
+    border-radius: 25px;
+    font-size: 18px;
+    padding: 10px 25px;
+  }
+  .loginbtn:hover{
+    background-color: white;
+    color: blue;
+
+  }
+  body{
+    overflow-x: hidden !important;
+    font-family: 'Labrada', serif;
+        /* overflow-y: hidden !important; */
+  }
+
+  .dropdown-toggle::after {
+    content: none;
+}
+
+.homeimg{
+    width: 50%;
+    height: 80%;
+    align-self: center;
+    margin: 10px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
